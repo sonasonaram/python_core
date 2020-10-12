@@ -1,0 +1,5 @@
+1. Install MySQL Community Server => https://dev.mysql.com/downloads/installer/
+2. Install MySQL Workbench
+3. Install Python MySQL Connector => pip install mysql-connector-python
+4. Create MySQL DB Library Functions
+5. Do DB Operations
